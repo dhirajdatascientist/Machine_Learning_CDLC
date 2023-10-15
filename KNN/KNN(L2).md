@@ -1,4 +1,3 @@
-Sure, here's a simple Python example using `scikit-learn`, a popular machine learning library, to demonstrate KNN on a small dataset:
 
 Firstly, install `scikit-learn` and `numpy` if you haven't done it yet:
 ```bash
