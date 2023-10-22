@@ -1,7 +1,7 @@
 # Roadmap For Freshers
 
 1. **Foundations**:
-   - **Mathematics**:
+   - **Mathematics**: (You can brushup from class 11th and 12th notebook)
      - **Linear Algebra**: Understand matrices, vectors, dot products.
      - **Probability**: Basic probability rules, Bayes' theorem.
      - **Statistics**: Mean, median, mode, standard deviation.
