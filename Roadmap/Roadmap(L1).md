@@ -46,7 +46,6 @@
 
 9. **Resources for Preparation**:
    - **Books**: "Python Machine Learning" by Sebastian Raschka, "The Hundred-Page Machine Learning Book" by Andriy Burkov.
-   - **Online Platforms**: Coursera, Udemy, DataCamp, and edX offer courses on machine learning.
    - **Interview-specific**: "Cracking the Machine Learning Interview" by Jake VanderPlas.
 
 10. **Questions to Expect**:
